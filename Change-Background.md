@@ -5,7 +5,7 @@
 
 Once you have your theme file open, make sure you can see the variable `--background-image`.
 
-Now find an image and upload it to http://imgur.com. 
+Now find an image (the same resolution as your monitor is advised e.g. 1920x1080) and upload it to http://imgur.com. 
 This site has a 99% uptime and is perfect for background image hosting.
 
 Now you must get the link from the imgur image, to do this right click the image and view it. 
