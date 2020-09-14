@@ -5,6 +5,7 @@ Guides for newbies
 ## **__How to change your default/open in text editor__**
 
 > Download one of these programs -
+
 **Vscode** - Simple, light weight, highly customizable, extension support, git support, text and code editor. 
 Download: <https://code.visualstudio.com/download>
 
