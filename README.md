@@ -1,7 +1,3 @@
-# How-To
-Guides for newbies
-
-
 ## **__How to change your default/open in text editor__**
 
 > Download one of these programs -
