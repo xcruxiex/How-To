@@ -1,6 +1,6 @@
 Guides for newbies
 
-[Repository](https://github.com/xcruxiex/How-To)
+### [Repository](https://github.com/xcruxiex/How-To)
 
 [Change Background](https://xcruxiex.github.io/How-To/Change-Background)
 
