@@ -1,4 +1,4 @@
-# How-To
+# [How-To](https://github.com/xcruxiex/How-To)
 Guides for newbies
 
 [Change Background](https://xcruxiex.github.io/How-To/Change-Background)
