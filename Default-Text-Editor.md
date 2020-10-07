@@ -1,4 +1,4 @@
-## **__How to change your default/open in text editor__**
+## **How to change your default/open in text editor**
 
 > Download one of these programs -
 
