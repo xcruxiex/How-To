@@ -1,4 +1,4 @@
-## **__How to change your main colors__**
+## **How to change your main colors**
 *(example used is https://github.com/ClearVision/ClearVision-v6)*
 
 > **__Colors__**
