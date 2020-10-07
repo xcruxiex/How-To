@@ -1,3 +1,9 @@
+[Change Background](https://xcruxiex.github.io/How-To/Change-Background)
+
+[Default Text Editor](https://xcruxiex.github.io/How-To/Default-Text-Editor)
+
+[Change Colors](https://xcruxiex.github.io/How-To/Change-Colors)
+
 ## **How to change your background**
 *(example used is https://github.com/ClearVision/ClearVision-v6)*
 
