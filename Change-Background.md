@@ -1,4 +1,4 @@
-## **__How to change your background__**
+## **How to change your background**
 *(example used is https://github.com/ClearVision/ClearVision-v6)*
 
 > Once you have read https://github.com/xcruxiex/How-To/blob/master/Default-Text-Editor.md, proceed through this guide.
